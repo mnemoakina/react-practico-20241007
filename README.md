@@ -1,3 +1,3 @@
 # React practice with Fetch - October 10, 2024
 
-React practice with Fetch
+React practice with Fetch.
